@@ -1,9 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[42]:
 
 
+"""
+    100 adet kullanıcıya 8 karakterden oluşan şifre belirlenecek. Oluşturulan şifreler bir listeye atılacak.
+    Bu şifreler içinde yan yana 2+ rakam içeren şifreyi bulup gösterecek fonksiyon yazılacak.
+"""
 import random
 import string
 
